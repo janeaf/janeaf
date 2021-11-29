@@ -10,7 +10,7 @@ Like learning from wandering and improving day by day.
 -Know or visit new places
 -Learn new things
 
-
+Email : 1718110376@utectulancingo.edu.mx
 
 <!---
 janeaf/janeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
