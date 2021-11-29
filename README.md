@@ -1,9 +1,16 @@
 - 👋 Hi, I’m Janeth Atenco
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Currently I am an engineering student, I would like to make learn many things 
+I do not close myself to the idea of ​​learning every day. 
+Like learning from wandering and improving day by day.
+
+- 👀 I’m interested in 
+-Learn more languages
+-Know new places
+-Know or visit new places
+-Learn new things
+
+
 
 <!---
 janeaf/janeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
